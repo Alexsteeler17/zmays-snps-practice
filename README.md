@@ -8,3 +8,4 @@ Maize reference genome version: refgen3
 
 Adapter file: adapters.fa
 Repracticing git
+Practice started 06/13/21
